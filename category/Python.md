@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Python
-permalink: category/python
+permalink: category/Python
 ---
