@@ -11,17 +11,16 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-#remote_theme            : rundocs/jekyll-rtd-theme
-#remote_theme             : "mmistakes/minimal-mistakes"
-#minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Yoon Dev Log"
+title                    : "Yoon Devlog"
 title_separator          : "-"
-subtitle                 : "T.B.D." # site tagline that appears below site title in masthead
+subtitle                 : "Develop what I want to use" # site tagline that appears below site title in masthead
 name                     : "Yoon"
-description              : "Dev Log for Fun"
+description              : "Yoon's Devlog"
 url                      : "https://changyoonjai.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
