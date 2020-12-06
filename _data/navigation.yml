@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "GitHub"
+    url: https://github.com/ChangYoonJai/changyoonjai.github.io
   - title: "Confluence"
     url: https://changyoonjai.atlassian.net
   - title: "Category"
@@ -10,3 +12,5 @@ main:
     url: "/about/"
   - title: "Publications"
     url: "/publications/"
+  - title: "Write"
+    url: https://github.com/ChangYoonJai/changyoonjai.github.io/tree/main/_posts
