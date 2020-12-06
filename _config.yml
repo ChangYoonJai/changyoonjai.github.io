@@ -280,11 +280,3 @@ defaults:
       share: true
       related: true
       
-# --- Navigation bar options --- #
-
-# List of links in the navigation bar
-
-navbar-links:
-  Category:
-    - Python: "/category/Python"
-    - Python: "/category/BeeWare"
