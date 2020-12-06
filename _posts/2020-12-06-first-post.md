@@ -6,8 +6,8 @@ categories: uncategorized
 
 This is welcome page
 
-​```python
+```python
 def print_hi(name):
   print("hello", name)
 print_hi('Yoon')
-​```
+```
