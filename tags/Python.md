@@ -1,7 +1,0 @@
----
-
-layout: tag
-
-title: Python
-
----
