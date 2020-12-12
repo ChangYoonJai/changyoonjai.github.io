@@ -1,4 +1,4 @@
 css:
-...
-+  - /assets/css/syntax.css
-...
+.highlight,pre.highlight{
++font-family: 'D2 coding', "Consolas", monospace;
+background:#222222;color:#aab1bf;}
