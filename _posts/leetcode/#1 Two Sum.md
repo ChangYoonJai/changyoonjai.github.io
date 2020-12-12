@@ -7,13 +7,15 @@ tags:
   - LeetCode
 ---
 
-# Problem
+## Problem
 
 https://leetcode.com/problems/two-sum/
 
-# Solution
+## Solution
 
-``` python
+_[GitHub Link](https://github.com/ChangYoonJai/LeetCodeInPython/blob/master/1.%20Two%20Sum.py)_
+
+```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         hash_map = dict()
@@ -23,7 +25,7 @@ class Solution:
             hash_map[target - num] = idx
 ```
 
-# Result
+## Result
 
 ```
 Runtime: 44 ms, faster than 94.99% of Python3 online submissions for Two Sum.
