@@ -16,12 +16,12 @@ tags:
 ## Setup Environment
 
 + Install modules
+
   ```pip install --upgrade pip setuptools virtualenv```
-  </br>
 
 + Creat virutal enviromnet for kivy *(Optional but **Stronly Recommend**)*
+
   ```python -m virtualenv kivy_venv```
-  </br>
 
 + Activate Virutal Environment
 
